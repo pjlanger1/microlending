@@ -1,6 +1,11 @@
 import requests
 import json
 
+"""
+This code runs an introspection query on KIVA's production databases via API POST requests to their graphQL.
+It should return an exhaustive schema of available fields within the system.
+"""
+
 url = "https://gateway.production.kiva.org/graphql"
 
 introspection_query = """
