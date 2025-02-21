@@ -13,7 +13,7 @@
   - some econometrics on the loan origination countries or regions
 
 - **have:**  
-  - *a complete extract of all loans written by Kiva correspondent lenders (2013-2017)*  
+  - *a complete extract of all loans written by Kiva correspondent lenders (2013-2017) (see folder /data/extract)*  
   - *a few GraphQL methods to read their internal data to get 2018-present activity (see folder /graphql/)*  
 
 - *need to do:*
