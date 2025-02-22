@@ -3,7 +3,7 @@
 ### collaboration & sharing of microlending ideas and exploratory analysis  
 
 ---
-
+## Project Plan
 ## stage 1:  
 
 - **initial idea:**  
@@ -22,4 +22,22 @@
       - want to capture repayment schedule
       - cadence to funding by loan theme
       - unsuccessful loan applications (loans that were not crowdfunded to completion)
-    
+
+
+___
+## About GraphQL & Kiva's Implementation:
+
+ What is GraphQL?
+ It is both a query language and a resolver for said queries. It serves structured data from a variety of internal sources like REST APIs, database calls in a flexible, declarative manner.  
+
+ Kiva's Implementation: Kiva has a robust system for developer data access. 
+ 
+ Read their [documentation, schema and play in their sandbox with custom queries if you'd like.](https://gateway.production.kiva.org/graphql).
+
+ **A Quick Note: ALWAYS read and abide by Terms of Service when programatically accessing such data.**
+
+ Here's some of what I've learned about two of the query formats available to us:
+
+**Loan ID-Queryable**
+
+Queryable via Pagination: 
