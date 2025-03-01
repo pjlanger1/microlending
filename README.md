@@ -11,6 +11,7 @@
   - credit costs to borrowers (what are they actually paying in interest)
   - who Kiva's lending partners are and how they service the debt
   - some econometrics on the loan origination countries or regions
+  - look at the impact of inflation in local currency
 
 - **have:**  
   - *a complete extract of all loans written by Kiva correspondent lenders (2013-2017) (see folder /data/extract)*  
